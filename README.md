@@ -1,2 +1,2 @@
-# nhhockeyplayer.github.io
+# meanstackdigital.github.io
 github pages
